@@ -8,7 +8,7 @@ Conducted a penetration test for a fictitious company and created a threat asses
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b>
+-Windows 11
 
 <h2>Tools Used </h2>
 -<b>Nmap</b>
